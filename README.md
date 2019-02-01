@@ -1,5 +1,7 @@
 # Random Profile Generator [DEMO]
 
+[![Build Status](https://dev.azure.com/donmarconi1990/random-profile-generator/_apis/build/status/donmarconi.rand-prof-gen?branchName=master)](https://dev.azure.com/donmarconi1990/random-profile-generator/_build/latest?definitionId=2&branchName=master)
+
 Generates a random user profile with all the common user profile items such as name, address, profile image etc. 
 You can generate a complete profile or a generate individual profile properties such as name or address.
 
