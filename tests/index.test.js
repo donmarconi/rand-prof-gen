@@ -12,7 +12,7 @@ describe('Random Profile Generator', () => {
         });
 
         it('Should return an object', () => {
-            expect(randomProfiles.profile()).to.be.a('string');
+            expect(randomProfiles.profile()).to.be.a('object');
         });  
 
         it('Should contain `id` property, it should a string that is a GUID', () => {
